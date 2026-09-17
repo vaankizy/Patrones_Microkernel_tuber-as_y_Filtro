@@ -1,0 +1,15 @@
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\app\Main.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\app\MainFrame.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\common\entities\Question.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\common\entities\QuestionRequest.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\common\interfaces\QuestionPlugin.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\core\QuestionMicrokernel.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\base\QuestionFilter.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\base\QuestionPipeline.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\filters\ClassificationFilter.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\filters\ContentValidationFilter.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\filters\CorrectAnswerValidationFilter.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\pipeline\filters\OptionsValidationFilter.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\plugins\CaseQuestionPlugin.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\plugins\MultimediaQuestionPlugin.java
+C:\Users\LEGION\Documents\mi-proyecto-taller05\src\main\java\co\edu\unicauca\microkernel\plugins\MultipleChoiceQuestionPlugin.java
